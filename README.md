@@ -1,2 +1,2 @@
 #Frontend Interview Questions
-QR componendt 
+1. QR component
